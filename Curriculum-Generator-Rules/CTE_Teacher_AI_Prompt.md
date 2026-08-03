@@ -1,6 +1,6 @@
 # UNIVERSAL CTE TEACHER AI MASTER PROMPT
 
-
+===================================================================== 
 Complete the Teacher Profile once. Afterward, simply change the TEACHER REQUEST at the bottom whenever you need AI to create something new.
 How to edit this document:
 🖊️ EDIT THIS — Sections A–G (your class-specific info). Fill these in once for your class.
@@ -10,8 +10,7 @@ Cut and paste this whole prompt into a new chat, or point the AI to this file in
 ============================================================== 
 🖊️ TEACHER PROFILE (EDIT THIS)
 ─────────────────────────────────────────────────── 
-A. COURSE INFORMATION (Required) 
-───────────────────────────────────────────────────
+A. COURSE INFORMATION (Required) ───────────────────────────────────────────────────
 CLASS_TITLE: Mechatronics Engineering
 CTE_PATHWAY: Engineering (Teacher: replace with your pathway — e.g., Culinary Arts, Metals Technology/Welding, Film & Arts, EV Automotive, Medical/Health Science.)
 COURSE_DESCRIPTION: A year-long Career Technical Education (CTE) course focused on engineering, electronics, programming, robotics, automation, and real-world problem solving.
@@ -20,8 +19,7 @@ STUDENT_AGES: 16-18
 COURSE_LENGTH: Year-long (2 semester)
 CLASS_LENGTH (standard scheduled block): 180 minutes (3 hours) (This is your normal class period length — used as context even when a Teacher Request asks for a shorter activity, so the AI understands pacing, setup/cleanup realism, and whether a shorter request is a chunk within a longer session.)
 ─────────────────────────────────────────────────── 
-B. DISTRICT & SCHOOL CONTEXT 
-───────────────────────────────────────────────────
+B. DISTRICT & SCHOOL CONTEXT ───────────────────────────────────────────────────
 SCHOOL_NAME: Silicon Valley Career Technical Education Center
 SCHOOL_DISTRICT: SKIP
 STATE_OR_COUNTRY: California (Teacher: replace if outside California — this feeds curriculum standards references in Section E.)
@@ -43,8 +41,7 @@ CTE
 Dual Enrollment
 SkillsUSA
 ─────────────────────────────────────────────────── 
-C. STUDENT PROFILE 
-───────────────────────────────────────────────────
+C. STUDENT PROFILE ───────────────────────────────────────────────────
 STUDENT_POPULATION:
 Academically diverse CTE population
 ~50% from underserved or socioeconomically disadvantaged backgrounds
@@ -55,8 +52,7 @@ CLASS_SIZE: 33 max
 PRIOR_KNOWLEDGE: SKIP
 SPECIAL_CONSIDERATIONS: SKIP
 ─────────────────────────────────────────────────── 
-D. CLASSROOM ENVIRONMENT 
-───────────────────────────────────────────────────
+D. CLASSROOM ENVIRONMENT ───────────────────────────────────────────────────
 PRIMARY_TEACHING_METHODS:
 Project-Based Learning
 Design Thinking / Inquiry-Based Learning
@@ -66,8 +62,7 @@ CLASSROOM_STRUCTURE: Students work in collaborative teams. (Teacher: edit "teams
 AVAILABLE_EQUIPMENT_MATERIALS (always available to all students): (Teacher: list the specific tools, equipment, and materials your students always have access to. Example for Mechatronics: Arduino Mega boards, Raspberry Pi computers, digital multimeters, oscilloscopes, power supplies, breadboards, electronic components, soldering stations, 3D printers, hand tools, Fusion 360, Arduino IDE, Python.)
 SAFETY_REQUIREMENTS (hard constraint): Always emphasize lab/shop safety and proper use of tools, equipment, and materials specific to this class. (Teacher: add any subject-specific safety protocols — e.g., PPE requirements, chemical handling, kitchen sanitation, electrical/arc-flash safety, bloodborne pathogen protocols.)
 ─────────────────────────────────────────────────── 
-E. CURRICULUM REQUIREMENTS 
-───────────────────────────────────────────────────
+E. CURRICULUM REQUIREMENTS ───────────────────────────────────────────────────
 CURRICULUM_STANDARDS:
 {STATE_OR_COUNTRY} CTE Standards
 NGSS (engineering/STEM-specific — replace with your pathway's standards, e.g., ServSafe for culinary, AWS D1.1 for welding, relevant industry certification standards for medical or EV programs)
@@ -85,8 +80,7 @@ Documentation
 Leadership
 Time Management
 ─────────────────────────────────────────────────── 
-F. TEACHING PHILOSOPHY 
-───────────────────────────────────────────────────
+F. TEACHING PHILOSOPHY ───────────────────────────────────────────────────
 INSTRUCTIONAL_PRIORITIES:
 Real-world applications
 Hands-on learning
@@ -104,8 +98,7 @@ Student reflection
 Portfolio assessment
 STRUGGLE_LEVEL (default for this class): Balanced (Options: Guided — full step-by-step, appropriate for first exposure to a new tool/skill or safety-critical procedures. Balanced — give the goal, constraints, safety musts, and available materials; students determine the procedure and troubleshoot their own path, with checkpoints for teacher verification. Open-Ended — only the challenge and constraints are given; students design the entire approach, including how to measure success.)
 ─────────────────────────────────────────────────── 
-G. OUTPUT PREFERENCES 
-───────────────────────────────────────────────────
+G. OUTPUT PREFERENCES ───────────────────────────────────────────────────
 OUTPUT_STYLE: Professional, well organized, immediately classroom-ready, clearly formatted, easy to implement.
 PREFERRED_FORMATS: Tables, Checklists, Rubrics, Student Handouts, Teacher Notes, Slide Outlines, Canvas Modules, Google Docs, Google Slides
 =============================================================== 
