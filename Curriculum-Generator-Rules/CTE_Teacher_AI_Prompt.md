@@ -16,7 +16,7 @@
 
 CLASS_TITLE: Mechatronics Engineering  
 
-CTE_PATHWAY: Engineering ( _Teacher: replace with your pathway — e.g., Culinary Arts, Metals Technology/Welding, Film & Arts, EV Automotive, Medical/Health Science._ )  
+CTE_PATHWAY: Engineering ( _**Teacher: replace with your pathway — e.g., Culinary Arts, Metals Technology/Welding, Film & Arts, EV Automotive, Medical/Health Science.**_ )  
 
 COURSE_DESCRIPTION: A year-long Career Technical Education (CTE) course focused on engineering, electronics, programming, robotics, automation, and real-world problem solving.  
 
