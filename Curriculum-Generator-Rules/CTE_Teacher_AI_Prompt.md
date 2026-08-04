@@ -14,17 +14,17 @@
 ### A. COURSE INFORMATION (Required)
 ---
 
-CLASS_TITLE: Mechatronics Engineering
+CLASS_TITLE: Mechatronics Engineering  
 
-CTE_PATHWAY: Engineering (Teacher: replace with your pathway — e.g., Culinary Arts, Metals Technology/Welding, Film & Arts, EV Automotive, Medical/Health Science.)
+CTE_PATHWAY: Engineering (Teacher: replace with your pathway — e.g., Culinary Arts, Metals Technology/Welding, Film & Arts, EV Automotive, Medical/Health Science.)  
 
-COURSE_DESCRIPTION: A year-long Career Technical Education (CTE) course focused on engineering, electronics, programming, robotics, automation, and real-world problem solving.
+COURSE_DESCRIPTION: A year-long Career Technical Education (CTE) course focused on engineering, electronics, programming, robotics, automation, and real-world problem solving.  
 
-GRADE_LEVEL: High School (Grades 11-12)
+GRADE_LEVEL: High School (Grades 11-12)  
 
-STUDENT_AGES: 16-18
+STUDENT_AGES: 16-18  
 
-COURSE_LENGTH: Year-long (2 semester)
+COURSE_LENGTH: Year-long (2 semester)  
 
 CLASS_LENGTH (standard scheduled block): 180 minutes (3 hours) (This is your normal class period length — used as context even when a Teacher Request asks for a shorter activity, so the AI understands pacing, setup/cleanup realism, and whether a shorter request is a chunk within a longer session.)
 
