@@ -9,8 +9,7 @@
 > Cut and paste this whole prompt into a new chat, or point the AI to this file in your GitHub repo, then edit only the TEACHER REQUEST section at the bottom for each new request.
 
 
-## 🖊️ TEACHER PROFILE (EDIT THIS)
-
+## 🖊️ TEACHER PROFILE (EDIT This One Time)
 
 ### A. COURSE INFORMATION (Required)
 ---
