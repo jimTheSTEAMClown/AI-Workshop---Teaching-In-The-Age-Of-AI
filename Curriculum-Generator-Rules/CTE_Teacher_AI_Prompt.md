@@ -1,4 +1,7 @@
-# UNIVERSAL CTE TEACHER AI MASTER PROMPT
+
+# UNIVERSAL CTE TEACHER AI MASTER PROMPT  
+
+## what?  
 
 ===================================================================== 
 Complete the Teacher Profile once. Afterward, simply change the TEACHER REQUEST at the bottom whenever you need AI to create something new.
