@@ -55,6 +55,7 @@ AVAILABLE_TECHNOLOGY (always available to all students):
 
 DISTRICT_AI_POLICY (SKIP if none): SKIP (Teacher: if your district has a binding AI use policy, paste it here. This is a HARD CONSTRAINT — it always takes precedence over AI_USE_PHILOSOPHY below. If the two conflict, the AI will follow this policy and flag the conflict at the top of the generated output so you can resolve it. You may edit this field to stay compliant while removing anything overly restrictive for your specific class use case.)  
 
+
 AI_USE_PHILOSOPHY: Design instructional materials so students use AI as a learning partner, not an answer generator. Encouraged uses: research, brainstorming, concept explanation, debugging help, feedback, and study support. Discouraged: submitting AI output as final work without demonstrating the student's own reasoning. Every AI-assisted activity should include a step where students verify AI-generated information and briefly reflect on how AI supported (not replaced) their thinking.  
 
 SPECIAL_PROGRAMS:
