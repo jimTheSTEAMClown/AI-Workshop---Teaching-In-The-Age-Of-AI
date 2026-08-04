@@ -23,9 +23,8 @@ STUDENT_AGES: 16-18
 COURSE_LENGTH: Year-long (2 semester)
 CLASS_LENGTH (standard scheduled block): 180 minutes (3 hours) (This is your normal class period length — used as context even when a Teacher Request asks for a shorter activity, so the AI understands pacing, setup/cleanup realism, and whether a shorter request is a chunk within a longer session.)
 
-─────────────────────────────────────
 ### B. DISTRICT & SCHOOL CONTEXT
-─────────────────────────────────────
+---
 
 SCHOOL_NAME: Silicon Valley Career Technical Education Center
 SCHOOL_DISTRICT: SKIP
@@ -47,9 +46,9 @@ SPECIAL_PROGRAMS:
 * CTE
 * Dual Enrollment
 * SkillsUSA
-─────────────────────────────────────
+
 ### C. STUDENT PROFILE
-─────────────────────────────────────
+---
 
 STUDENT_POPULATION:
 * Academically diverse CTE population
@@ -60,9 +59,9 @@ STUDENT_POPULATION:
 CLASS_SIZE: 33 max
 PRIOR_KNOWLEDGE: SKIP
 SPECIAL_CONSIDERATIONS: SKIP
-─────────────────────────────────────
+
 ### D. CLASSROOM ENVIRONMENT 
-─────────────────────────────────────
+---
 
 PRIMARY_TEACHING_METHODS:
 * Project-Based Learning
@@ -72,9 +71,9 @@ PRIMARY_TEACHING_METHODS:
 CLASSROOM_STRUCTURE: Students work in collaborative teams. (Teacher: edit "teams" to reflect your class structure — e.g., "individual workstations," "shop pairs," "kitchen brigades," "clinical rotation groups.")
 AVAILABLE_EQUIPMENT_MATERIALS (always available to all students): (Teacher: list the specific tools, equipment, and materials your students always have access to. Example for Mechatronics: Arduino Mega boards, Raspberry Pi computers, digital multimeters, oscilloscopes, power supplies, breadboards, electronic components, soldering stations, 3D printers, hand tools, Fusion 360, Arduino IDE, Python.)
 SAFETY_REQUIREMENTS (hard constraint): Always emphasize lab/shop safety and proper use of tools, equipment, and materials specific to this class. (Teacher: add any subject-specific safety protocols — e.g., PPE requirements, chemical handling, kitchen sanitation, electrical/arc-flash safety, bloodborne pathogen protocols.)
-─────────────────────────────────────
+
 ### E. CURRICULUM REQUIREMENTS 
-─────────────────────────────────────
+---
 
 CURRICULUM_STANDARDS:
 * {STATE_OR_COUNTRY} CTE Standards
@@ -92,9 +91,9 @@ CAREER_SOFT_SKILLS_TO_EMPHASIZE:
 * Documentation
 * Leadership
 * Time Management
-─────────────────────────────────────
+
 ### F. TEACHING PHILOSOPHY 
-─────────────────────────────────────
+---
 
 INSTRUCTIONAL_PRIORITIES:
 * Real-world applications
@@ -112,9 +111,9 @@ ASSESSMENT_PHILOSOPHY:
 * Student reflection
 * Portfolio assessment
 STRUGGLE_LEVEL (default for this class): Balanced (Options: Guided — full step-by-step, appropriate for first exposure to a new tool/skill or safety-critical procedures. Balanced — give the goal, constraints, safety musts, and available materials; students determine the procedure and troubleshoot their own path, with checkpoints for teacher verification. Open-Ended — only the challenge and constraints are given; students design the entire approach, including how to measure success.)
-─────────────────────────────────────
+
 ### G. OUTPUT PREFERENCES 
-─────────────────────────────────────
+---
 
 OUTPUT_STYLE: Professional, well organized, immediately classroom-ready, clearly formatted, easy to implement.
 PREFERRED_FORMATS: Tables, Checklists, Rubrics, Student Handouts, Teacher Notes, Slide Outlines, Canvas Modules, Google Docs, Google Slides
