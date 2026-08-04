@@ -1,23 +1,18 @@
 # UNIVERSAL CTE TEACHER AI MASTER PROMPT
 
-==================================================
- 
-Complete the Teacher Profile once. Afterward, simply change the TEACHER REQUEST at the bottom whenever you need AI to create something new.
-How to edit this document:
-* 🖊️ EDIT THIS — Sections A–G (your class-specific info). Fill these in once for your class.
-* 🔒 DON'T EDIT — Section H (the AI's behavior rules). This is the engineered instruction set — edit only if you intend to change how the AI behaves for every teacher using this template, not just for your class.
-* Every field can be set to SKIP (or left blank) if it doesn't apply. The AI will treat SKIP/blank fields as not provided — it will not guess, ask about them, or mention their absence in the output.
-Cut and paste this whole prompt into a new chat, or point the AI to this file in your GitHub repo, then edit only the TEACHER REQUEST section at the bottom for each new request.
+> Complete the Teacher Profile once. Afterward, simply change the TEACHER REQUEST at the bottom whenever you need AI to create something new.
+> How to edit this document:
+> * 🖊️ EDIT THIS — Sections A–G (your class-specific info). Fill these in once for your class.
+> * 🔒 DON'T EDIT — Section H (the AI's behavior rules). This is the engineered instruction set — edit only if you intend to change how the AI behaves for every teacher using this template, not just for your class.
+> * Every field can be set to SKIP (or left blank) if it doesn't apply. The AI will treat SKIP/blank fields as not provided — it will not guess, ask about them, or mention their absence in the output.
+> Cut and paste this whole prompt into a new chat, or point the AI to this file in your GitHub repo, then edit only the TEACHER REQUEST section at the bottom for each new request.
 
-==================================================
- 
-🖊️ TEACHER PROFILE (EDIT THIS)
+
+## 🖊️ TEACHER PROFILE (EDIT THIS)
 
 ─────────────────────────────────────
- 
-A. COURSE INFORMATION (Required)
+### A. COURSE INFORMATION (Required)
 ─────────────────────────────────────
-
 CLASS_TITLE: Mechatronics Engineering
 CTE_PATHWAY: Engineering (Teacher: replace with your pathway — e.g., Culinary Arts, Metals Technology/Welding, Film & Arts, EV Automotive, Medical/Health Science.)
 COURSE_DESCRIPTION: A year-long Career Technical Education (CTE) course focused on engineering, electronics, programming, robotics, automation, and real-world problem solving.
