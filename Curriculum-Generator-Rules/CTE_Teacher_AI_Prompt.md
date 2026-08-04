@@ -12,9 +12,11 @@
 > Cut and paste this whole prompt into a new chat, or point the AI to this file in your GitHub repo, then edit only the TEACHER REQUEST section at the bottom for each new request.  
 > ==============================================================  
 
-🖊️ TEACHER PROFILE (EDIT THIS)
-─────────────────────────────────────────────────── 
-A. COURSE INFORMATION (Required) ───────────────────────────────────────────────────
+🖊️ TEACHER PROFILE (EDIT THIS)  
+
+───────────────────────────────────────────────────   
+A. COURSE INFORMATION (Required)  
+───────────────────────────────────────────────────  
 CLASS_TITLE: Mechatronics Engineering
 CTE_PATHWAY: Engineering (Teacher: replace with your pathway — e.g., Culinary Arts, Metals Technology/Welding, Film & Arts, EV Automotive, Medical/Health Science.)
 COURSE_DESCRIPTION: A year-long Career Technical Education (CTE) course focused on engineering, electronics, programming, robotics, automation, and real-world problem solving.
