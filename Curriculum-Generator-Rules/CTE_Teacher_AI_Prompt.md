@@ -156,9 +156,8 @@ Examples of requests:
 * Write a parent newsletter describing our upcoming project.
 * Rewrite this lesson for English Learners.
 * Design a capstone project.
---
 
-REQUEST_TYPE: (Unit Outline / Single Lesson-Lab / Other)
+REQUEST_TYPE: (Unit Outline / Single Lesson-Lab / Other) 
 REQUESTED_DURATION (for a Single Lesson/Lab; SKIP to use CLASS_LENGTH default): SKIP
 UNIT_LENGTH (for a Unit Outline, e.g., "2 weeks / 8 sessions"; SKIP if not applicable): SKIP
 AVAILABLE_SPECIFICALLY_FOR_LESSON_LAB (extra equipment/materials just for this request; SKIP if none): SKIP
@@ -166,4 +165,4 @@ UNIT_CONTEXT (paste the relevant excerpt from a previously generated outline; SK
 WHICH_DAY_OR_SEGMENT (which part of the outline to expand; SKIP if none): SKIP
 STRUGGLE_LEVEL_OVERRIDE (SKIP to use the class default from Section F): SKIP
 TEACHER_REQUEST: <Enter your detailed request here. Be specific about what you want the output to be, and note any special equipment/context not already covered above.>
---
+
