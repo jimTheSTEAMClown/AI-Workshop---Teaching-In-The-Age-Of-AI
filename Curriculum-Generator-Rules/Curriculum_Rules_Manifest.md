@@ -13,9 +13,8 @@ These apply to every chat regardless of language or platform. Fetch at chat star
 | Rule File | Path | Status |
 |---|---|---|
 | Top Level AI Manifest Projects Rules | [AI_Rules_Manifest.md](https://raw.githubusercontent.com/jimTheSTEAMClown/Robots-Rovers-Project-Template/refs/heads/main/AI-Rules/AI_Rules_Manifest.md) | active |
-| Teacher Persona Rules | [ ]() | active |
-| Multiple Choice Quiz Rules | [ ]() | active |
-
+| Teacher Persona Rules | [CTE_Teacher_AI_Prompt.md](https://raw.githubusercontent.com/jimTheSTEAMClown/AI-Workshop---Teaching-In-The-Age-Of-AI/refs/heads/main/Curriculum-Generator-Rules/CTE_Teacher_AI_Prompt.md) | active |
+| Multiple Choice Quiz Rules | [Multiple_Choice_Question_Prompt.md](https://raw.githubusercontent.com/jimTheSTEAMClown/AI-Workshop---Teaching-In-The-Age-Of-AI/refs/heads/main/Curriculum-Generator-Rules/Multiple_Choice_Question_Prompt.md) | active |
 
 ## Notes
 
