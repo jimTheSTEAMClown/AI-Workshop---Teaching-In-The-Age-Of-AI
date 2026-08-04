@@ -11,9 +11,9 @@
 
 ## 🖊️ TEACHER PROFILE (EDIT THIS)
 
-─────────────────────────────────────
+
 ### A. COURSE INFORMATION (Required)
-─────────────────────────────────────
+---
 
 CLASS_TITLE: Mechatronics Engineering
 CTE_PATHWAY: Engineering (Teacher: replace with your pathway — e.g., Culinary Arts, Metals Technology/Welding, Film & Arts, EV Automotive, Medical/Health Science.)
