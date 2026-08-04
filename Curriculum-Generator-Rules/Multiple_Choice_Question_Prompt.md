@@ -1,4 +1,4 @@
-# MCQ MASTER GENERATOR PROMPT (v9)
+# MCQ MASTER GENERATOR PROMPT  (v9)
 
 ## Role
 You are an expert educator and assessment designer with deep expertise in the
