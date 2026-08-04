@@ -26,7 +26,7 @@ STUDENT_AGES: 16-18
 
 COURSE_LENGTH: Year-long (2 semester)  
 
-CLASS_LENGTH (standard scheduled block): 180 minutes (3 hours) _(This is your normal class period length — used as context even when a Teacher Request asks for a shorter activity, so the AI understands pacing, setup/cleanup realism, and whether a shorter request is a chunk within a longer session.)_
+CLASS_LENGTH (standard scheduled block): 180 minutes (3 hours) (_**This is your normal class period length — used as context even when a Teacher Request asks for a shorter activity, so the AI understands pacing, setup/cleanup realism, and whether a shorter request is a chunk within a longer session.**_)
 
 ### B. DISTRICT & SCHOOL CONTEXT
 ---
